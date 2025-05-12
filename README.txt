@@ -1,6 +1,7 @@
 ### README ###
 David Nguyen CSCI 5931: Biswas
 Instructions to run code:
+Download all of the .csv files, .py files, and the requirements.txt file
 Please be sure to have python installed on your device (I was on Python 3.10.7)
 I used a virtual environment and feel like this is the best decision for everyone as well.
 In your respective terminal on your machines:
@@ -17,4 +18,3 @@ this will execute in your environment and will also have 2 pop-up windows that s
 
 Thank you and please feel free to leave questions, comments, concerns, and I would love to receive as much 
 constructive criticism so that I can make this much better in the future.
-Have a great summer break!
